@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>189005134696-tqnvjuoibuglm55psdlkee8i58reqo6t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.189005134696-tqnvjuoibuglm55psdlkee8i58reqo6t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvDkW01sk3Ak2leGKzsn_tMqT90Xlt9Pw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>189005134696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.apress.MarbleShooter</string>
+	<key>PROJECT_ID</key>
+	<string>marble-shooter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>marble-shooter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:189005134696:ios:a279fbcbf57ec068</string>
+	<key>DATABASE_URL</key>
+	<string>https://marble-shooter.firebaseio.com</string>
+</dict>
+</plist>
